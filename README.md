@@ -14,15 +14,15 @@
 <h1 style="font-weight: semi-bold;">Stack</h1>
 <div style="display: flex; gap: 50px; align-items: center;">
 
-      <!-- JAVA -->
+    
       <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       
-      <!-- LARAVEL -->
+  
       <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 
-      <!-- PHP -->
+      
       <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-      <!-- C -->
+  
       <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
