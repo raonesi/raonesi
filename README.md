@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2E7D32,100:1B5E20&text=Raone%20Alencar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Back-end%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL%20%C2%B7%20Next.js&descSize=18&descAlignY=60" alt="Raone Alencar" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:C8102E,50:7A0A1C,100:000000&text=Raone%20Alencar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Back-end%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL%20%C2%B7%20Next.js&descSize=18&descAlignY=60" alt="Raone Alencar" width="100%" />
 
 <a href="https://github.com/raonesi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=700&lines=Estagi%C3%A1rio+na+Gala+%C2%B7+Aparecida+do+Taboado+(MS);Construo+APIs+REST+com+Spring+Boot+e+JWT;Do+modelo+de+dados+%C3%A0+interface+com+Next.js;Banco+versionado+com+Flyway+e+deploy+com+Docker;Sempre+aprendendo+e+construindo+algo+novo" alt="Animação de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C8102E&center=true&vCenter=true&width=700&lines=Estagi%C3%A1rio+na+Gala+%C2%B7+Aparecida+do+Taboado+(MS);Construo+APIs+REST+com+Spring+Boot+e+JWT;Do+modelo+de+dados+%C3%A0+interface+com+Next.js;Banco+versionado+com+Flyway+e+deploy+com+Docker;Sempre+aprendendo+e+construindo+algo+novo" alt="Animação de apresentação" />
 </a>
 
 **Construo sistemas web completos, do modelo de dados à interface, com segurança e regras de negócio no centro.**
 
-<a href="https://github.com/raonesi/reconstroi"><img src="https://img.shields.io/badge/Projeto_em_destaque-ReConstr%C3%B3i-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="ReConstrói" /></a>
+<a href="https://github.com/raonesi/reconstroi"><img src="https://img.shields.io/badge/Projeto_em_destaque-ReConstr%C3%B3i-C8102E?style=for-the-badge&logo=github&logoColor=white" alt="ReConstrói" /></a>
 
 </div>
 
@@ -28,8 +28,8 @@ Hoje estou aprofundando **arquitetura em camadas, segurança de APIs e container
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raonesi&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonesi&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raonesi&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E32219&icon_color=E32219&text_color=FFFFFF&border_color=E32219" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonesi&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E32219&icon_color=E32219&text_color=FFFFFF&border_color=E32219" alt="Linguagens mais usadas" />
 
 <br><br>
 
@@ -101,6 +101,6 @@ Sistema web de biblioteca com login, cadastro de usuários, cadastro de livros c
 
 **[GitHub](https://github.com/raonesi)** · **Aparecida do Taboado, MS**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1B5E20,100:2E7D32&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:7A0A1C,100:C8102E&section=footer" alt="" width="100%" />
 
 </div>
