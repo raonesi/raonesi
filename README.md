@@ -72,17 +72,17 @@ Hoje estou aprofundando **arquitetura em camadas, segurança de APIs e container
 
 ## 🚀 Projetos em destaque
 
-**♻️ [ReConstrói](https://github.com/raonesi/reconstroi): reaproveitamento de materiais de construção**
-Plataforma que conecta doadores, construtoras, ONGs e famílias e acompanha o ciclo do anúncio até a doação finalizada. Três perfis (doador, beneficiário e administrador) com autoridades granulares recalculadas a partir do banco a cada requisição JWT, de modo que bloquear uma conta invalida na hora os tokens já emitidos. O fluxo de reserva é transacional (`DISPONÍVEL → SOLICITADA → APROVADA → RETIRADA → FINALIZADA`), com garantia no serviço e no PostgreSQL contra duas reservas ativas para o mesmo material, reservas parciais e histórico de ações com usuário, data/hora e IP. O mesmo backend atende a **web em Next.js** e um **cliente desktop em Java Swing** (padrão VIEW → DTO → DAO).
-Operação: schema versionado com Flyway, Docker Compose com imagens multi-stage, health checks e volumes persistentes, e a API só inicia com `JWT_SECRET` e senha de banco definidos, sem segredo padrão no código.
+**♻️ [ReConstrói](https://github.com/raonesi/reconstroi): reaproveitamento de materiais de construção**<br>
+Plataforma que conecta doadores, construtoras, ONGs e famílias e acompanha o ciclo do anúncio até a doação finalizada. Três perfis (doador, beneficiário e administrador) com autoridades granulares recalculadas a partir do banco a cada requisição JWT, de modo que bloquear uma conta invalida na hora os tokens já emitidos. O fluxo de reserva é transacional (`DISPONÍVEL → SOLICITADA → APROVADA → RETIRADA → FINALIZADA`), com garantia no serviço e no PostgreSQL contra duas reservas ativas para o mesmo material, reservas parciais e histórico de ações com usuário, data/hora e IP. O mesmo backend atende a **web em Next.js** e um **cliente desktop em Java Swing** (padrão VIEW → DTO → DAO).<br>
+<br>Operação: schema versionado com Flyway, Docker Compose com imagens multi-stage, health checks e volumes persistentes, e a API só inicia com `JWT_SECRET` e senha de banco definidos, sem segredo padrão no código.<br>
 `Spring Boot` · `Spring Security` · `JWT` · `PostgreSQL` · `Flyway` · `Next.js` · `TypeScript` · `Tailwind` · `Java Swing` · `Docker`
 
-**🍳 [Cadastro de Receitas](https://github.com/raonesi/cadastro-receitas-spring-boot)**
-CRUD web de receitas com validação de formulário (Bean Validation) e persistência em PostgreSQL, organizado em `controller`, `service`, `repository` e `model`.
+**🍳 [Cadastro de Receitas](https://github.com/raonesi/cadastro-receitas-spring-boot)**<br>
+CRUD web de receitas com validação de formulário (Bean Validation) e persistência em PostgreSQL, organizado em `controller`, `service`, `repository` e `model`.<br>
 `Spring Boot` · `Spring MVC` · `Thymeleaf` · `JPA/Hibernate` · `PostgreSQL`
 
-**📚 [Projeto Biblioteca](https://github.com/raonesi/Projeto_biblioteca)**
-Sistema web de biblioteca com login, cadastro de usuários e livros, livros com controle de estoque e faixa etária, empréstimos, devoluções e multa por atraso, no padrão MVC com DAO.
+**📚 [Projeto Biblioteca](https://github.com/raonesi/Projeto_biblioteca)**<br>
+Sistema web de biblioteca com login, cadastro de usuários, cadastro de livros com controle de estoque e faixa etária, empréstimos, devoluções e multa por atraso, no padrão MVC com DAO.<br>
 `Java` · `Servlets` · `JSP` · `PostgreSQL`
 
 ---
