@@ -2,6 +2,7 @@
 
 Desenvolvedor de sistemas em formação, com foco em **back-end Java** e aplicações web completas.
 
+- 💼 Estagiário na Gala, em Aparecida do Taboado (MS)
 - 🎓 Técnico em Desenvolvimento de Sistemas pela Unifunec
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (ADS) na Unifunec de Santa Fé
 - 🔧 Hoje trabalho principalmente com Java, Spring Boot, PostgreSQL e Next.js
