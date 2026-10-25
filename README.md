@@ -24,25 +24,6 @@ Hoje estou aprofundando **arquitetura em camadas, segurança de APIs e container
 
 ---
 
-## 📊 Atividade
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raonesi&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E32219&icon_color=E32219&text_color=FFFFFF&border_color=E32219" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonesi&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E32219&icon_color=E32219&text_color=FFFFFF&border_color=E32219" alt="Linguagens mais usadas" />
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raonesi/raonesi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raonesi/raonesi/output/github-snake.svg" />
-  <img alt="Cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/raonesi/raonesi/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🛠️ Stack
 
 **Back-end**
