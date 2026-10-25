@@ -16,11 +16,16 @@
 
 ## 👋 Sobre mim
 
-Sou **estagiário na Gala, em Aparecida do Taboado (MS)**, Técnico em Desenvolvimento de Sistemas pela Unifunec e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unifunec de Santa Fé.
+Sou desenvolvedor back-end em início de carreira e **estagiário na Gala, em Aparecida do Taboado (MS)**. Sou Técnico em Desenvolvimento de Sistemas pela Unifunec e estudo **Análise e Desenvolvimento de Sistemas (ADS)** na Unifunec de Santa Fé.
 
 Gosto de problemas reais de negócio: pegar um fluxo bagunçado e entregar um sistema organizado, rastreável e que roda de ponta a ponta. Meus projetos seguem o mesmo desenho: **API REST em camadas, banco versionado com migrations, autenticação JWT e deploy com Docker**.
 
-Hoje estou aprofundando **arquitetura em camadas, segurança de APIs e containers**.
+- 🔐 **Segurança:** autenticação JWT, controle de permissões por perfil e regras de negócio garantidas também no banco
+- 🗄️ **Dados:** modelagem em PostgreSQL com migrations versionadas (Flyway)
+- 🧩 **Arquitetura:** camadas bem separadas (controller, service, repository) e um mesmo backend servindo web e desktop
+- 📦 **Entrega:** Docker Compose, health checks e configuração por variáveis de ambiente
+
+🎯 **Hoje estou aprofundando:** arquitetura em camadas, segurança de APIs e containers.
 
 ---
 
