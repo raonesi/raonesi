@@ -8,7 +8,8 @@
 
 **Construo sistemas web completos, do modelo de dados à interface, com segurança e regras de negócio no centro.**
 
-<a href="https://github.com/raonesi/reconstroi"><img src="https://img.shields.io/badge/Projeto_em_destaque-ReConstr%C3%B3i-C8102E?style=for-the-badge&logo=github&logoColor=white" alt="ReConstrói" /></a>
+<a href="https://raonesi.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-raonesi.github.io-C8102E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+<a href="https://github.com/raonesi/reconstroi"><img src="https://img.shields.io/badge/Projeto_em_destaque-ReConstr%C3%B3i-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="ReConstrói" /></a>
 
 </div>
 
@@ -92,7 +93,7 @@ Sistema web de biblioteca com login, cadastro de usuários, cadastro de livros c
 
 <div align="center">
 
-**[GitHub](https://github.com/raonesi)** · **Aparecida do Taboado, MS**
+**[Portfólio](https://raonesi.github.io)** · **[GitHub](https://github.com/raonesi)** · **Aparecida do Taboado, MS**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:7A0A1C,100:C8102E&section=footer" alt="" width="100%" />
 
